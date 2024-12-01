@@ -1,18 +1,27 @@
 # Battery Lab
 
-## Introduction
-
-   A Battery Monitoring Application for Android device
+**Battery Lab** is an Android application designed to monitor battery performance, usage, and health. This app provides detailed insights into your battery's behavior, helping you optimize its lifespan and usage efficiency.
 
 ---
 ## Screenshots
 
-<div style="center" style="display:flex;">
- 
-</div>
+*(Add screenshots of your app here.)*
 
 ---
-## Information
+## Permissions
+
+Battery Lab requires the following permissions to function effectively:
+
+Battery Stats Access: For monitoring and analyzing battery performance.
+
+Notification Access: To send alerts about battery status.
+
+Location Permission (optional): For features that depend on location-based services.
+
+
+
+---
+## Contribution
 
 <p align="center">
 <b>About:</b>
@@ -65,6 +74,11 @@ For the project as a whole, it's not free. You are <b>FORBIDDEN</b> from distrib
 <p align="center">
 <a href="https://play.google.com/store/apps/details?id=com.jacktor.batterylab">
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="323" height="125" style="border: 10px solid;"/></a></p>
+
+---
+## FAQ
+
+(question and answer)
 
 ---
 ## Contacts
