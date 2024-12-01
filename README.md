@@ -1,3 +1,4 @@
+# Battery Lab
 
 ## Introduction
 
