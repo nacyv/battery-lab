@@ -64,6 +64,17 @@ For the project as a whole, it's not free. You are <b>FORBIDDEN</b> from distrib
  ✅ Successfully Implemented * ❎ Failed To Implement * ➡️ Currently Implementing * 💡 Planning Implementation 
 </div>
 
+*replaced with :)
+
+- **Real-time Monitoring**: Track your battery level, temperature, voltage, and charging status in real-time.
+- **Battery Health Analysis**: Get detailed information about battery capacity, health, and performance.
+- **Usage Statistics**: View historical battery usage patterns and trends.
+- **Notifications**: Receive alerts for critical battery levels or overheating.
+- **Customization**: Set up personalized thresholds and preferences for monitoring.
+
+
+
+
 ---
 ## Available
 
